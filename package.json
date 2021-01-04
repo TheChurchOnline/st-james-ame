@@ -1,0 +1,24 @@
+{
+  "name": "shilohbc-app",
+  "version": "1.0.0",
+  "description": "Shiloh Baptist Church App",
+  "main": "any",
+  "scripts": {
+    "test": "C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChurchOnline/shiloh-baptist.git"
+  },
+  "keywords": [
+    "shiloh",
+    "app"
+  ],
+  "author": "The Church Online",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChurchOnline/shiloh-baptist/issues"
+  },
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
+  "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme"
+}
