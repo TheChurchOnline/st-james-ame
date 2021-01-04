@@ -4,11 +4,11 @@
     xmlns="http://www.w3.org/ns/widgets"
     xmlns:gap="http://phonegap.com/ns/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.st_james_ame.app"
+    id="com.st__jame_ame.app"
     version="1.0.0">
    
-   <name>St. James AME</name>
-   <description><![CDATA[ST. James AME]]></description>
+   <name>Shiloh Baptist Church</name>
+   <description><![CDATA[St. James AME]]></description>
    <author href="https://thechurchonline.com" email="tordonio@thechurchonline.com">Timothy Ordonio</author>
 
     <platform name="ios" />
@@ -17,19 +17,6 @@
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist"  mode="merge">
         <string>100</string>
     </edit-config>
-
-    <?xml version="1.0" encoding="UTF-8"?>
-<!-- config.xml reference: https://cordova.apache.org/docs/en/latest/config_ref/index.html -->
-<widget 
-    xmlns="http://www.w3.org/ns/widgets"
-    xmlns:gap="http://phonegap.com/ns/1.0"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.st_james_ame.app"
-    version="1.0.0">
-   
-   <name>St. James AME</name>
-   <description><![CDATA[St. James AME]]></description>
-   <author href="https://thechurchonline.com/" email="web@thechurchonline.com">The Church Online</author>
 
     <platform name="ios" />
     <platform name="android" />
