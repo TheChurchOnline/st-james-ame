@@ -1,14 +1,14 @@
 {
-  "name": "shilohbc-app",
+  "name": "stjamesame-app",
   "version": "1.0.0",
-  "description": "Shiloh Baptist Church App",
+  "description": "ST James AME App",
   "main": "any",
   "scripts": {
     "test": "C"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheChurchOnline/shiloh-baptist.git"
+    "url": "git+https://github.com/TheChurchOnline/st-james-ame.git"
   },
   "keywords": [
     "shiloh",
@@ -17,8 +17,8 @@
   "author": "The Church Online",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheChurchOnline/shiloh-baptist/issues"
+    "url": "https://github.com/TheChurchOnline/st-james-ame/issues"
   },
   "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
-  "homepage": "https://github.com/TheChurchOnline/shiloh-baptist#readme"
+  "homepage": "https://github.com/TheChurchOnline/st-james-ame#readme"
 }
